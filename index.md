@@ -10,11 +10,11 @@ of content is looked at and moderated for appropriateness. We also offer coachin
 make their advice the best available anywhere. 
 
 **What you can expect to see in our guidelines:**
-- [CareerVillage.org community members](http://guide.careervillage.org/index.md#careervillageorg-community-members)-who they are and why   they exist 
-- [Community team](http://guide.careervillage.org/index.md#careervillageorg-community-team)-who they are and what they do
-- [What is not allowed](http://guide.careervillage.org/index.md#what-is-not-allowed)
-- [Do’s and Don’ts](http://guide.careervillage.org/index.md#dos-and-donts)
-- [How we respond when content does not meet our guidelines](http://guide.careervillage.org/index.md#what-we-do-when-content-doesnt-meet-our-guidelines)
+- [CareerVillage.org community members](http://guide.careervillage.org/#careervillageorg-community-members)-who they are and why they exist 
+- [Community team](http://guide.careervillage.org/#careervillageorg-community-team)-who they are and what they do
+- [What is not allowed](http://guide.careervillage.org/#what-is-not-allowed)
+- [Do’s and Don’ts](http://guide.careervillage.org/#dos-and-donts)
+- [How we respond when content does not meet our guidelines](http://guide.careervillage.org/#what-we-do-when-content-doesnt-meet-our-guidelines)
 - Changes to our guidelines- what happens when our guidelines get updated
 
 ## CareerVillage.org community members
