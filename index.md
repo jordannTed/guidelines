@@ -109,19 +109,17 @@ the community from what they’re there to do. Subjects and behavior we never al
 **For professionals**\
 **Do’s**
 - Follow our list of ProTips. To ensure Students are getting the best advice on CareerVillage, we’ve created a list of 10 ProTips 
-  to support Professionals in giving the best advice possible. Click on each ProTip to read more about it!
-    
-1. <u>Be direct</u>
-2. <u>Be comprehensive</u>
-3. <u>Use facts</u>
-4. <u>Tell a personal story</u>
-5. <u>Recommend next steps</u>
-6. <u>Cite your sources</u>
-7. <u>Strike the right tone</u>
-8. <u>Use proper formatting, grammar, and structure</u>
-9. <u>Anticipate Students’ needs</u> 
-10. <u>Be concise</u>
-    
+  to support Professionals in giving the best advice possible. Click on each ProTip to read more about it!    
+     1. <u>Be direct</u>
+     2. <u>Be comprehensive</u>
+     3. <u>Use facts</u>
+     4. <u>Tell a personal story</u>
+     5. <u>Recommend next steps</u>
+     6. <u>Cite your sources</u>
+     7. <u>Strike the right tone</u>
+     8. <u>Use proper formatting, grammar, and structure</u>
+     9. <u>Anticipate Students’ needs</u> 
+     10. <u>Be concise</u>
 - Refer questions you cannot answer to people in your network you know can.
 - Give another Professional kudos for an answer you think is great as a comment to that piece of advice.
 - Include your job title, the company you work for, and/or industry you work in in your Headline.
