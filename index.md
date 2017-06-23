@@ -1,5 +1,7 @@
-![](https://dljazvpjm4tct.cloudfront.net/img/careervillage-logo.svg)
-## Community Guidelines
+<p align="center">
+  <img src="https://dljazvpjm4tct.cloudfront.net/img/careervillage-logo.svg">
+</p>
+<h2 align="center"> Community Guidelines </h2>
 
 Our mission is to democratize access to the career advice underserved youth need to create professional goals 
 and understand their personal paths to those goals. CareerVillage.org enables young people to get that advice
