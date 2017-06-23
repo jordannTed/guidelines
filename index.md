@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://dljazvpjm4tct.cloudfront.net/img/careervillage-logo.svg">
-</p>
-<h2 align="center"> Community Guidelines </h2>
-
 Our mission is to democratize access to the career advice underserved youth need to create professional goals 
 and understand their personal paths to those goals. CareerVillage.org enables young people to get that advice
 by giving them access to professionals from whom to seek guidance. Together they make up our community. 
@@ -18,7 +13,7 @@ make their advice the best available anywhere.
 - [What is not allowed](http://guide.careervillage.org/#what-is-not-allowed)
 - [Do’s and Don’ts](http://guide.careervillage.org/#dos-and-donts)
 - [How we respond when content does not meet our guidelines](http://guide.careervillage.org/#what-we-do-when-content-doesnt-meet-our-guidelines)
-- Changes to our guidelines-what happens when our guidelines get updated
+- [Changes to our guidelines](http://guide.careervillage.org/#changes-to-our-guidelines)-what happens when our guidelines get updated
 
 ## CareerVillage.org Community Members
 *You can see the full description of each user type in our [Terms of Service](https://www.careervillage.org/terms/).*
