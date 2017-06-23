@@ -5,7 +5,7 @@
 
 Our mission is to democratize access to the career advice underserved youth need to create professional goals 
 and understand their personal paths to those goals. CareerVillage.org enables young people to get that advice
-by giving them access to professionals from whom to seek guidance.Together they make up our community. 
+by giving them access to professionals from whom to seek guidance. Together they make up our community. 
 
 We want people to get the most out of CareerVillage, so we created guidelines to help community members 
 understand how best to contribute. To ensure what’s posted on CareerVillage meets these guidelines, every piece 
@@ -18,9 +18,9 @@ make their advice the best available anywhere.
 - [What is not allowed](http://guide.careervillage.org/#what-is-not-allowed)
 - [Do’s and Don’ts](http://guide.careervillage.org/#dos-and-donts)
 - [How we respond when content does not meet our guidelines](http://guide.careervillage.org/#what-we-do-when-content-doesnt-meet-our-guidelines)
-- Changes to our guidelines- what happens when our guidelines get updated
+- Changes to our guidelines-what happens when our guidelines get updated
 
-## CareerVillage.org community members
+## CareerVillage.org Community Members
 *You can see the full description of each user type in our [Terms of Service](https://www.careervillage.org/terms/).*
 
 **Students**  
@@ -36,7 +36,7 @@ Educators are our career readiness champions, who incorporate CareerVillage into
 the platform. 
 
 ## CareerVillage.org Community Team 
-Our Community team enforces our guidelines. 
+Our community team enforces our guidelines. 
  
 **Moderators (a.k.a “Mods”)**  
 Mods are CareerVillage users-turned-volunteers who commit to (collectively) looking at every piece of content that’s 
