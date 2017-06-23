@@ -1,4 +1,5 @@
-## CareerVillage.org community guidelines
+![](https://dljazvpjm4tct.cloudfront.net/img/careervillage-logo.svg)
+## Community Guidelines
 
 Our mission is to democratize access to the career advice underserved youth need to create professional goals 
 and understand their personal paths to those goals. CareerVillage.org enables young people to get that advice
