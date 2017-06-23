@@ -20,36 +20,36 @@ make their advice the best available anywhere.
 ## CareerVillage.org community members
 *You can see the full description of each user type in our [Terms of Service](https://www.careervillage.org/terms/).*
 
-**Students**\
+**Students**  
 Students are advice seekers, typically between the age of 13-24, and have not yet entered the workforce. 
 
-**Professionals**\
+**Professionals**  
 Professionals give Students advice. They are most typically out of school and in the workforce. Sometimes professionals 
 are employees of companies who have formed a partnership with us (click [here](https://www.careervillage.org/partners/) 
 to read more about our corporate partnerships). 
  
-**Educators**\
+**Educators**  
 Educators are our career readiness champions, who incorporate CareerVillage into their curriculums to get Students on to
 the platform. 
 
 ## CareerVillage.org Community Team 
 Our Community team enforces our guidelines. 
  
-**Moderators (a.k.a “Mods”)**\
+**Moderators (a.k.a “Mods”)**  
 Mods are CareerVillage users-turned-volunteers who commit to (collectively) looking at every piece of content that’s 
 posted on CareerVillage.org. Their role is to ensure the community is following our guidelines. Typically mods do not 
 take direct corrective action. 
  
-**Administrators (a.k.a “Admins”)**\
+**Administrators (a.k.a “Admins”)**  
 Admins are CareerVillage.org staff members, contractors, or other team members who support Mods in ensuring content on 
 CareerVillage meets our Community Guidelines, and take action on the actual moderation and coaching of content on the site.  
  
-**Coaches**\
+**Coaches**  
 Coaches are people who contact other members of the community to proactively provide coaching or suggestions to make sure 
 advice on CareerVillage is the best you can find on the internet. They know all the content Do’s and Don’ts, outlined below,
 and coach community members on how to post great content. 
  
-**You**\
+**You**  
 If you want, you can also be a member of our community team. We enable, encourage, and expect community members to get 
 involved with the moderation of content on CareerVillage. When you see something that doesn’t meet our guidelines, please 
 flag it using the buttons on the site or email us at [hello@careervillage.org](mailto:hello@careervillage.org) if you see 
@@ -60,7 +60,7 @@ We do not tolerate any form of disrespectful or degrading behavior on CareerVill
 the community from what they’re there to do. Subjects and behavior we never allow on CareerVillage are outlined below:
 
 - **Bullying**
-- **Hate speech**\
+- **Hate speech**  
     Includes content that directly attacks people based on their: 
     - Race
     - Ethnicity
@@ -73,18 +73,18 @@ the community from what they’re there to do. Subjects and behavior we never al
 - **Sexually explicit content (e.g. pornography)**
 - **Trolling**
 - **Profanity**
-- **Personal contact information**\
+- **Personal contact information**  
     To respect the safety and privacy of our community members, we do not allow community members to post their phone number, email
 	address, or home address. Students are also only able to publicize their first name and the first initial of their last name. 
 - **Spam**
 - **Recruiting or evangelizing for one cause over another**
-- **Profile photo(s) that are off topic**\
+- **Profile photo(s) that are off topic**  
     We define “off topic” in this context as any image that does not have you in it and/or is not relevant to your profession.
-- **Attempts to organize communications outside of our community**\
+- **Attempts to organize communications outside of our community**  
     For safety reasons, this includes inviting people to contact you, follow you, or connect with you outside of CareerVillage.org.
  
 ## Do’s and Don’ts
-**For Students**\
+**For Students**  
 **Do’s**
 - Use proper grammar and spelling.
 - Give your question context that clearly states why an answer to that question will help you be better prepared for your future. 
@@ -106,7 +106,7 @@ the community from what they’re there to do. Subjects and behavior we never al
 - Ask about your homework if you’re only asking do get the assignment done or if your questions about your homework don’t actually 
   pertain to your career or future.
 
-**For professionals**\
+**For professionals**  
 **Do’s**
 - Follow our list of ProTips. To ensure Students are getting the best advice on CareerVillage, we’ve created a list of 10 ProTips 
   to support Professionals in giving the best advice possible. Click on each ProTip to read more about it!    
@@ -135,23 +135,20 @@ the community from what they’re there to do. Subjects and behavior we never al
 - Self-promote. 
 - Directly offer employment or money to Students. You can, however, direct Students to an employment page (if you work for the company 
   you’re referring the Student to you need to explicitly say that). 
-- Answer a question if you don’t have an answer or anything of value to contribute. You don’t have to answer every question that gets sent
-  to you!
+- Answer a question if you don’t have an answer or anything of value to contribute. You don’t have to answer every question that gets sent to you!
 - Use our referral feature to harass people.
 - Refer a question to someone you don’t know.
 - Refer a question to someone who is not able to answer that question.
 - Post a comment on another piece of advice that you want to add to. Post what you have to say as a separate answer instead!
 - Include your personal mantra or philosophy (e.g., “Try harder every day!”) in your Headline.
 - Leave your Headline or “About me” section in your profile blank!
-- Upload a profile photo where we can’t see your face clearly (e.g. photos taken from too far away, blurry image, or a photo of a big group
-  of people where we can’t see your face).
+- Upload a profile photo where we can’t see your face clearly (e.g. photos taken from too far away, blurry image, or a photo of a big group of people where we can’t see your face).
 - Plagiarize. *Remember to cite the sources you reference in your advice!*
 
 ## What we do when content doesn’t meet our guidelines
 
 Much of the content that violates the guidelines outlined above gets blocked by default before it even gets posted. On the rare occasion 
-inappropriate content doesn’t automatically get caught, we take immediate action to rectify the situation. When our Community team believes 
-content can be improved, or it doesn’t meet the guidelines outlined here, they’ll take action to coaching them to make it better. 
+inappropriate content doesn’t automatically get caught, we take immediate action to rectify the situation. When our Community team believes content can be improved, or it doesn’t meet the guidelines outlined here, they’ll take action to coaching them to make it better. 
 
 Depending on the content and its intent, we will do one or more of the following things:
 - Remove it from the platform. 
@@ -163,14 +160,11 @@ Depending on the content and its intent, we will do one or more of the following
   they take an action. 
 - Suspend community member(s). 
 
-**Exceptions:** If there is a reason to make an exception to the guideline, or if something is flagged as inappropriate but does not meet any 
-guideline outlined here, then Admins will discuss and come to a decision on how to address the issue.
+**Exceptions:** If there is a reason to make an exception to the guideline, or if something is flagged as inappropriate but does not meet any guideline outlined here, then Admins will discuss and come to a decision on how to address the issue.
 	 
 ## Changes to our guidelines
 
-You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community 
-grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We
- will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
+You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
  
-*[Changelog placeholder]\
+*[Changelog placeholder]  
 Last updated: LM 6/9/17 930a.m.*
