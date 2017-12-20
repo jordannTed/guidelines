@@ -124,13 +124,14 @@ the community from what they’re there to do. Subjects and behavior we never al
 - Include information about your education, job (past and present), work history, hobbies or any other information you think would be 
   helpful for Students to know about you in your “About me” section of your profile. 
 
-**Don’ts**
+**Don'ts**
 - Post off topic content. We define “off topic” as any content that doesn’t directly answer or isn’t apparently relevant to the request
   for advice or topic being discussed. 
 - Be discouraging of Students’ aspirations or plan.
 - Provide misleading information about yourself or purposely about the subject matter you’re discussing. 
 - Post ONLY a link and say “go find the answer over [there]”.
 - Self-promote. 
+- Post content in a language other than English (for the time being until CareerVillage.org has the capacity of moderators to support languages aside from English; _we encourage names to be in English for Students to read_).
 - Directly offer employment or money to Students. You can, however, direct Students to an employment page (if you work for the company 
   you’re referring the Student to you need to explicitly say that). 
 - Answer a question if you don’t have an answer or anything of value to contribute. You don’t have to answer every question that gets sent to you!
@@ -165,4 +166,5 @@ Depending on the content and its intent, we will do one or more of the following
 You can see when our guidelines were last updated at the bottom of this post. Updates to our guidelines will inevitably be made as our community grows. When a change is made we will update the guidelines immediately and summarize that update at the bottom of this page in the changelog. We will not notify the community of every change, but do encourage you to check back here to see the changelog as often as you like. 
  
 *[Changelog placeholder]  
-Last updated: LM 6/9/17 930a.m.*
+Updated 12/19/2017 J. Rivera - Added language rules.
+Updated 6/9/2017 L.Manning
